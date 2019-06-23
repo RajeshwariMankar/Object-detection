@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Formal</folder>
+	<filename>formal2.jpg</filename>
+	<path>/home/rajeshwari/Videos/Training/Images/Formal/formal2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>265</width>
+		<height>190</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Formal</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>265</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>
